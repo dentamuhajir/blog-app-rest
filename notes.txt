@@ -1,0 +1,7 @@
+Composer
+    install
+        composer create-project laravel/laravel laravel-blog "8.5.*"
+
+Git
+    Intial project
+        git init 
